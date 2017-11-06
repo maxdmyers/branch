@@ -1,15 +1,19 @@
 {
-    "name": "jeykeu/branch",
+    "name": "maxdmyers/branch",
     "description": "A WordPress starter theme based on Timber library and Bootstrap.",
     "type": "wordpress-theme",
     "require": {
-        "timber/timber": "^1.2"
+        "timber/timber": "^1.5"
     },
     "license": "MIT",
     "authors": [
         {
             "name": "Junaid Qadir Shekhanzai",
             "email": "shekhanzai.baloch@gmail.com"
+        },
+        {
+            "name": "Max Myers",
+            "email": "max@bultemagroup.com"
         }
     ],
     "scripts": {
